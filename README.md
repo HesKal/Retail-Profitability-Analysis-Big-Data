@@ -90,7 +90,8 @@ To understand the "why" behind the numbers, customer reviews (unstructured text 
 This project was a successful collaboration between:
 
 *   **Hessa Khalfan** ([@Heskal](https://github.com/Heskal ))
-*   **Maryam Ali**
+*   **Maryam BinHamdah** ([@MaryamBinHamdah](https://github.com/MaryamBinHamdah ))
+
 
 ---
 
