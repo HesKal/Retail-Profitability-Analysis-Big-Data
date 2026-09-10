@@ -1,7 +1,7 @@
 # 🛒 Big Data Analytics: Diagnosing Profitability in Retail
 
 <p align="center">
-  <img src="[ضع-هنا-رابط-صورة-مميزة-تمثل-المشروع]" alt="Big Data Project Banner" width="90%"/>
+  <img src=" " alt="Big Data Project Banner" width="90%"/>
 </p>
 
 ## 🌟 Business Problem & Objective
